@@ -5,6 +5,6 @@ Atelierul de mecatronica a avut 10 participanti si ne-am jucat cu urmatoarele:
 * placuta arduino
 * scris cod in Arduino IDE
 
-Detalii despre [curs](curs.html)
+Detalii despre [curs](curs.md)
 
 
